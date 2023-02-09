@@ -1,0 +1,11 @@
+{
+  "name": "my-monorepo",
+  "version": "1.0.0",
+  "description": "monorepo micro-frontend",
+  "author": "mari",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}

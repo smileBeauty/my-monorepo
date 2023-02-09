@@ -1,0 +1,6 @@
+defaults 
+last 2 versions 
+> 1% 
+chrome > 75
+not ie < 11
+not dead
